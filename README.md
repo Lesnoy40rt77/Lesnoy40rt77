@@ -25,8 +25,8 @@ Currently developing **Ventus Iter** inside a university accelerator and moving 
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lesnoy40rt77&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lesnoy40rt77&layout=compact&hide_border=true" height="165" />
+<img src="./profile/stats.svg" height="165" />
+<img src="./profile/top-langs.svg" height="165" />
 
 </div>
 
