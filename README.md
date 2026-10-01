@@ -78,7 +78,7 @@ I study **Applied Informatics at Russian State Hydrometeorological University** 
 
 - Portfolio: [lesnoy40rt77.dev](https://lesnoy40rt77.dev/)
 - Telegram: [@lesnoy40rt77](https://t.me/lesnoy40rt77)
-- Email: [akejl851@gmail.com](mailto:akejl851@gmail.com)
+- Email: [andrey@lesnoy40rt77.dev](mailto:andrey@lesnoy40rt77.dev)
 
 ---
 
